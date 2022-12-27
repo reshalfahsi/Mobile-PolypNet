@@ -3,12 +3,19 @@
 This is an unofficial PyTorch implementation of [Mobile-PolypNet](https://github.com/rkarmaka/Mobile-PolypNet).
 
 
+## Requirements
+
+```
+pip install -r requirements.txt
+```
+
+
 ## Model
 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rkarmaka/Mobile-PolypNet/main/figs/model_arch_mod.png" width="450">
+<img src="https://raw.githubusercontent.com/rkarmaka/Mobile-PolypNet/main/figs/model_arch_mod.png" width="600">
 
 </div>
 
