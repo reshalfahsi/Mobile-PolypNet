@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rkarmaka/Mobile-PolypNet/main/figs/model_arch_mod.png" width="600">
+<img src="https://raw.githubusercontent.com/rkarmaka/Mobile-PolypNet/main/figs/model_arch_mod.png" width="800">
 
 </div>
 
